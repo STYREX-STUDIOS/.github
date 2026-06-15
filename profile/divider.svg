@@ -1,7 +1,0 @@
-<svg width="900" height="14" viewBox="0 0 900 14" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="14" fill="transparent"/>
-  <!-- Main line matching --dim = rgba(255,45,107,0.3) -->
-  <rect x="0" y="6" width="900" height="1" fill="#FF2D6B" opacity="0.3"/>
-  <!-- Centre pip — full accent -->
-  <rect x="444" y="4" width="12" height="6" fill="#FF2D6B" opacity="0.75"/>
-</svg>
